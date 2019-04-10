@@ -1,0 +1,10 @@
+[package]
+name = "lc3"
+version = "0.1.0"
+authors = ["Watercycle <Watercycle@email.com>"]
+
+[dependencies]
+failure = "0.1.1"
+num = "0.1.42"
+num-traits = "0.2.4"
+newtype_derive = "0.1.6"

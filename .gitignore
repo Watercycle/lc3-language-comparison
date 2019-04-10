@@ -1,0 +1,8 @@
+
+# Rust
+/target
+**/*.rs.bk
+
+# IDE
+.idea/
+lc3.iml
